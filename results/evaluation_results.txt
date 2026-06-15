@@ -1,0 +1,13 @@
+============================================================
+AVALIAÇÃO MAZE 8x8 - Q-LEARNING vs SARSA
+============================================================
+
+Parâmetros de treinamento:
+  - Episódios: 3000
+  - α: 0.1, γ: 0.99, ε: 0.1
+
+Resultados (100 episódios greedy):
+  Q-LEARNING: Taxa de sucesso = 100.0%
+  SARSA:      Taxa de sucesso = 100.0%
+
+Diferença: 0.0%
